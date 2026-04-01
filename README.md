@@ -8,16 +8,16 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
 ```js
 const guilherme = {
-  foco: "Evolução constante",
-  area: "Desenvolvimento Web",
-  linguagens: ["JavaScript", "Python", "Kotlin"],
-  interesses: ["APIs", "Automação", "UI/UX"],
-  hobbies: ["Academia", "Edição de vídeo"],
-  objetivo: "Virar dev de alto nível 🚀"
+  focus: "Constant improvement",
+  field: "Web Development",
+  languages: ["JavaScript", "Python", "Kotlin"],
+  interests: ["APIs", "Automation", "UI/UX"],
+  hobbies: ["Gym", "Video editing"],
+  goal: "Become a high-level developer 🚀"
 }
 ```
 
@@ -33,24 +33,24 @@ const guilherme = {
 
 ---
 
-## 🎯 Metas 2026
+## 🎯 2026 Goals
 
-* 🚀 Conseguir estágio/dev job
-* 📚 Evoluir em React e backend
-* 🔥 Criar projetos completos com API
-* 💪 Manter consistência nos estudos e treino
+* 🚀 Get an internship/dev job
+* 📚 Improve React and backend skills
+* 🔥 Build complete projects with APIs
+* 💪 Stay consistent with studying and training
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU_LINK" target="_blank">
+<a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:seuemail@email.com">
+<a href="mailto:youremail@email.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -58,11 +58,11 @@ const guilherme = {
 
 ---
 
-## 💭 Filosofia
+## 💭 Philosophy
 
 <div align="center">
 
-> "Disciplina constrói o que a motivação começa." 🔥
+> "Discipline builds what motivation starts." 🔥
 
 </div>
 
