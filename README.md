@@ -33,22 +33,6 @@ const guilherme = {
 
 ---
 
-## 🏆 Projetos em destaque
-
-<div align="center">
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glmm26&Gestaogastos&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glmm26&Nexa&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 ## 🎯 Metas 2026
 
 * 🚀 Conseguir estágio/dev job
