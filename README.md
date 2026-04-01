@@ -8,7 +8,17 @@
 
 ---
 
+## 🧠 Sobre mim
 
+```js
+const guilherme = {
+  foco: "Evolução constante",
+  area: "Desenvolvimento Web",
+  linguagens: ["JavaScript", "Python", "Kotlin"],
+  interesses: ["APIs", "Automação", "UI/UX"],
+  hobbies: ["Academia", "Edição de vídeo"],
+  objetivo: "Virar dev de alto nível 🚀"
+}
 ```
 
 ---
