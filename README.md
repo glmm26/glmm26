@@ -1,4 +1,4 @@
-# 💫 Guilherme de Freitas
+# Guilherme de Freitas
 
 <div align="center">
 
