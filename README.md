@@ -10,11 +10,11 @@
 
 ## 🧠 About Me
 
-```js
+```js id="gk29xq"
 const guilherme = {
   focus: "Constant improvement",
   field: "Web Development",
-  languages: ["JavaScript", "Python", "Kotlin"],
+  languages: ["JavaScript", "TypeScript", "Python", "Kotlin"],
   interests: ["APIs", "Automation", "UI/UX"],
   hobbies: ["Gym", "Video editing"],
   goal: "Become a high-level developer 🚀"
@@ -27,7 +27,37 @@ const guilherme = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,kotlin,react,nodejs,html,css,aws,git,github" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,react,nodejs,nextjs,html,css,tailwind,aws" />
+
+</div>
+
+---
+
+## 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+
+</div>
+
+---
+
+## 🛠️ Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,docker" />
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,docker,aws" />
 
 </div>
 
