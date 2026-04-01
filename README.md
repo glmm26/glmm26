@@ -33,43 +33,16 @@ const guilherme = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=00000000" />
-
-</div>
-
----
-
-## 🐍 Contribuições (snake)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
 ## 🏆 Projetos em destaque
 
 <div align="center">
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=nome-do-repo&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glmm26&repo=nome-do-repo&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=outro-repo&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glmm26&repo=outro-repo&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
