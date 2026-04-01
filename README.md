@@ -38,11 +38,11 @@ const guilherme = {
 <div align="center">
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glmm26&repo=nome-do-repo&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glmm26&Gestaogastos&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glmm26&repo=outro-repo&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glmm26&Nexa&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
